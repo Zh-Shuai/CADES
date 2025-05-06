@@ -1,0 +1,6 @@
+scenario,statistic,auc
+Packet corruption (1%),CADES,96.48
+Packet corruption (10%),CADES,99.48
+Packet delay (all services),CADES,99.33
+Packet delay (frontend),CADES,98.15
+Packet duplication(1%),CADES,92.88
